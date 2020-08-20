@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+#grad {
+  background-image: linear-gradient(rgba(100,0,100,0), rgba(100,0,100,1));
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
